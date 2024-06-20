@@ -2,16 +2,21 @@
 
 
 ---
-## 👋 Hello cohort Pravin here
-Aspiring Full Stack developer professional with knowledge of frontend and backend technologies and 1200+ hours of coding practice and 500+ DSA questions solve. Interested to solve real-world problems Passionate about coding and strongly interested in obtaining a Software Developer position.
+## 👋 Hello
+Dynamic Data Analyst with expertise in SQL, Python, and
+ Power BI. Demonstrates strong problem-solving and analytical
+ skills to extract actionable insights from complex data sets. I
+ am excited to leverage my skills to help organizations make
+ data-driven decisions, optimize operations and achieve their
+ goals.
 
 ---
 ## <img width="26" height="26" alt="about me" src="https://user-images.githubusercontent.com/101383047/189491727-7a027ae4-6a8f-41e5-a38b-34cba60a7a0c.png"> About Me 
-> #### Full Stack Java Developer | Programmer
+> #### Aspiring Data Analyst
 <!--<span><img width="30" height="30" alt="javaScript" src="https://user-images.githubusercontent.com/101383047/184540783-5fbe075d-a347-4883-8192-b43925cdd60e.png"></span>-->
-- I'm handy with Java development, along with raising my Data Structure and Algorithms knowledge
-- Trigger to learn new technologies in web development.
-- Leisure interest in playing Chess.
+- I'm handy with SQL, Python, Pandas and  Power BI
+- Eager to learn new technologies.
+- I love and enjoy myself dancing , my all time hobby.
 ---
 
 ## 🛠️ Tech Stacks
@@ -64,48 +69,20 @@ Aspiring Full Stack developer professional with knowledge of frontend and backen
 ---
 ## 🌏 Connect with me...
 
-- <img width="26" height="26" alt="email" src="https://user-images.githubusercontent.com/101383047/189492660-adb48aa4-e0c0-417b-9268-db71d99d389f.png"> &nbsp; pravindnikam07@gmail.com
+- <img width="26" height="26" alt="email" src="https://user-images.githubusercontent.com/101383047/189492660-adb48aa4-e0c0-417b-9268-db71d99d389f.png"> &nbsp; samikshamirjha@gmail.com
 <!-- - <img width="26" height="26" alt="contact" src="https://user-images.githubusercontent.com/101383047/189492709-08990aca-9415-4342-a11b-d82e40231b08.png"> &nbsp; 7709505570 -->
-- <img width="26" height="26" alt="LinkedIn" src="https://user-images.githubusercontent.com/101383047/189492379-0165edd5-b873-4df7-b85b-8fe8e624694c.png"> &nbsp; [pravindnikam07](https://www.linkedin.com/in/pravindnikam07/)
-- <img width="26" height="26" alt="portfolio" src="https://user-images.githubusercontent.com/101383047/189492615-0328a147-4f33-432b-96d2-afcd69a20e51.png"> &nbsp; [portfolio-pravindnikam07](https://portfolio-pravindnikam07.netlify.app/)
+- <img width="26" height="26" alt="LinkedIn" src="https://user-images.githubusercontent.com/101383047/189492379-0165edd5-b873-4df7-b85b-8fe8e624694c.png"> &nbsp; [Samiksha Mirjha]((https://www.linkedin.com/in/samiksha-mirjha/))
+- <img width="26" height="26" alt="portfolio" src="https://user-images.githubusercontent.com/101383047/189492615-0328a147-4f33-432b-96d2-afcd69a20e51.png"> &nbsp; [Portfolio-Samiksha Mirjha]((https://sites.google.com/view/samiksha-mirjha-portfolio/home))
 
 <!--
-- Email ID -- pravindnikam07@gmail.com
-- Contact -- 7709505570
-- [LinkedIn] -- [pravindnikam07](https://www.linkedin.com/in/pravindnikam07/)
-- [Portfolio] -- [portfolio-pravindnikam07](https://portfolio-pravindnikam07.netlify.app/)
+- Email ID --samikshamirjha@gmail.com
+- Contact -- 7974762416
+- [LinkedIn] -- [Samiksha Mirjha](https://www.linkedin.com/in/pravindnikam07/)
+- [Portfolio] -- [portfolio-Samiksha Mirjha]((https://sites.google.com/view/samiksha-mirjha-portfolio/home))
 -->
 
----
-## 📊 Stats
-
-![Pravin's  GitHub stats](https://github-readme-stats.vercel.app/api?username=pravindnikam07&theme=tokyonight&show_icons=true)<br/>
-![Pravin's  GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=pravindnikam07&theme=dark&hide_border=true")<br/>
-![](https://activity-graph.herokuapp.com/graph?username=pravindnikam07&amp;hide_border=true&amp;bg_color=151515&amp;color=fff&amp;line=f28a00&amp;point=f28a00)<br/>
 
 
-<!--![Pravin's  GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pravindnikam07&theme=tokyonight&show_icons=true)
-![Pravin's  GitHub stats](https://github-readme-stats.vercel.app/api?username=pravindnikam07&theme=tokyonight&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pravindnikam07&theme=cobalt&layout=compact)-->
-<!--
-<img width="150" height="40" alt="gmail" src="https://user-images.githubusercontent.com/101383047/184548849-a77cc426-250a-48ad-8f2c-4c3b09443cbb.JPG"> &nbsp;&nbsp;
-<img width="150" height="40" alt="" src="">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img width="150" height="40" alt="linkedIn" src="https://user-images.githubusercontent.com/101383047/184548619-fb141514-6533-4503-b460-02f2e175ab69.JPG">]
-[<img width="150" height="40" alt="portfolio" src="https://user-images.githubusercontent.com/101383047/184548410-5be48f00-9364-4b84-a879-6c5b3fc778d2.JPG"> ]
-[<img width="150" height="40" alt="portfolio" src="https://user-images.githubusercontent.com/101383047/184548410-5be48f00-9364-4b84-a879-6c5b3fc778d2.JPG"> ](https://portfolio-pravindnikam07.netlify.app/)&nbsp;&nbsp;
 
-**pravindnikam07/pravindnikam07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
--->
