@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samiksha Mirjha</h1>
 <h3 align="center">An aspiring Data Analyst from India</h3>
 
-- 🔭 I’m currently working on [Data analysis on Cars24](https://github.com/SamikshaMirjha/Data-Analysis-on-Cars-24)
-
 - 🌱 I’m currently learning **Data Analysis**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://sites.google.com/view/samiksha-mirjha-portfolio/home)
