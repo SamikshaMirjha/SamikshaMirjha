@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Data Analysis**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/samiksha-mirjha-portfolio/home](https://sites.google.com/view/samiksha-mirjha-portfolio/home)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://sites.google.com/view/samiksha-mirjha-portfolio/home)
 
 - 💬 Ask me about **SQL, Power BI, Excel**
 
 - 📫 How to reach me **samikshamirjha@gmail.com**
 
-- 📄 Know about me [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=667416db42e58acbb849a27a](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=667416db42e58acbb849a27a)
+- 📄 Know about me [My Resume](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=667416db42e58acbb849a27a)
 
 - ⚡ Fun fact **I am a Passionate freestyle dancer.**
 
